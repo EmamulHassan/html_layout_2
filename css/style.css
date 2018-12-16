@@ -1,0 +1,205 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.head{
+    height: 120px;
+    background-color: #000000;
+}
+.wrapper{
+	margin: 0 auto;
+	height: 100%;
+	width :85%;
+	overflow: hidden;
+}
+.logo {
+	height:100%;
+	float:left; 
+}
+.menu{
+	width:45%;
+	float:right;
+}
+.logo img{
+	height:100%;
+}
+.menu ul li{
+	list-style: none;
+	float: left;
+ 	margin: 50px 30px;
+	text-transform: capitalize;
+}
+.menu ul li a{
+	text-decoration: none;
+	color: white;
+}
+.body1{
+	min-height:300px;
+	width: 100%;
+	overflow: hidden;
+	margin:15px 0px;
+}
+.img1{
+	width: 28%;
+    float: left;
+}
+.img1 img{
+	width: 100%;
+}
+.pera1{
+	width: 60%;
+    margin-right: 20px;
+    float: right;
+}
+
+.body2{
+	height:390px;
+	width: 100%;
+	overflow: hidden;
+	margin:15px 0px;
+}
+.img2{
+	width:32%;
+	float: left;
+}
+.img2 img{
+	width: 100%
+}
+.img3{
+	width:32%;
+	float: left;
+	margin:0 35.5px;
+	}
+.img3 img{
+	width: 100%;
+}
+.img4{
+	width:32%;
+	float: left;
+}
+.img4 img{
+	width: 100%;
+}
+.body2d{
+	min-height:200px;
+	width: 100%;
+	overflow: hidden;
+	margin:15px 0px;
+}
+.img2d{
+	width:30%;
+	float:left;
+}
+.img3d{
+	width:30%;
+	float:left;
+	margin:0 80.5px; 
+}
+.img4d{
+	width:30%;
+	float:right;
+}
+.body3{
+	height:390px;
+	width: 100%;
+	overflow: hidden;
+	margin:15px 0px;
+}
+.img5{
+	width:32%;
+	float: left;
+}
+.img5 img{
+	width: 100%;
+	}
+.img6{
+	width:32%;
+	float: left;
+	margin:0 35.5px;
+}
+.img6 img{
+	width: 100%;
+}
+.img7{
+	width:32%;
+	float: left;
+}
+.img7 img{
+	width: 100%;
+}
+.body3d{
+	min-height:200px;
+	width: 100%;
+	overflow: hidden;
+	margin:15px 0px;
+}
+.img5d{
+	width:30%;
+	float:left;
+}
+.img6d{
+	width:30%;
+	float:left;
+	margin:0 80.5px; ;
+}
+.img7d{
+	width:30%;
+	float:right;
+}
+.footer{
+	height: 250px;
+	background-color: #000000;
+}
+.con1{
+	text-align:center;width:20%;
+	float:left;
+	margin:15px 40px;
+}
+.con2{
+	text-align:center;width:20%;
+	float:left;
+	margin:15px 40px;
+}
+.con3{
+	text-align:center;width:20%;
+	float:left;
+	margin:15px 40px;
+}
+.con4{
+	text-align:center;width:20%;
+	float:left;
+	margin:15px 40px;
+}
+.footer a{
+	color: white;
+}
+.conimage{
+	width: 80%;
+	height: 45px;
+	margin: 0 auto;
+	overflow: hidden
+}
+.conimg1{
+	width:33%;
+	height: 100px;
+	float:left;
+}
+.conimg2{
+	width:33%;
+	height: 100px;
+	float:left;
+}
+.conimg3{
+	width:33%;
+	height: 100px;
+	float:left;
+}
+.conimg1 img{
+	height: 100px;
+}
+.conimg2 img{
+	height: 100px;
+}
+.conimg3 img{
+	height: 100px;
+}
